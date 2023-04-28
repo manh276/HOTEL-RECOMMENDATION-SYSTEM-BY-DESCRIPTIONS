@@ -2,7 +2,7 @@
 
 ![Alt text](https://i.ibb.co/V2kYZB0/HOTEL.png)
 
-The system using your descriptions to recommends to you which hotels are likely your descriptions
+The system using your descriptions in order to recommend to you which hotels are similar to your descriptions
 
 Language: Vietnamese
 
