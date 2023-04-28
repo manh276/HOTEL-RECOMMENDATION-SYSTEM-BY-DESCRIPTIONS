@@ -1,5 +1,7 @@
 # HOTEL-RECOMMENDATION-SYSTEM-BY-DESCRIPTIONS
 
+![Alt text](https://ibb.co/vZM4GzC)
+
 The system using your descriptions to recommends to you which hotels are likely your descriptions
 
 METHOD: Using content-based Algorithm (using cosine similarty measure to measures the similarty between hotels)
