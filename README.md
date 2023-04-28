@@ -20,7 +20,7 @@ FILE:
 -------------------------------------------------------------------------------------------------
 How to run:
 
-I/install requirement module:
+I/Install requirement module:
 
   1.streamlit (to deploy web app)
   
@@ -41,5 +41,5 @@ II/ Open APP2.py
   
   2.run the command: streamlit run "the path to APP.2 in your computer"
 
-contact me on fb: https://www.facebook.com/Ibrahimanhvic/
+Contact me on fb: https://www.facebook.com/Ibrahimanhvic/
   
