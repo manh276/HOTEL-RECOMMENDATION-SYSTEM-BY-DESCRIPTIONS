@@ -1,6 +1,6 @@
 # HOTEL-RECOMMENDATION-SYSTEM-BY-DESCRIPTIONS
 
-![Alt text](https://ibb.co/vZM4GzC)
+![Alt text](https://i.ibb.co/V2kYZB0/HOTEL.png)
 
 The system using your descriptions to recommends to you which hotels are likely your descriptions
 
