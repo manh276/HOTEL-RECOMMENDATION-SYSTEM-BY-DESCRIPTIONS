@@ -73,7 +73,7 @@ with st.form("Thông tin"):
     location_name=location
     st.write('**👉🏽Bạn muốn tìm khách sạn có mô tả như sau:**', name)
     st.write('**👉🏽Ở tỉnh/ thành phố:**', location_name)
-    submit = st.form_submit_button("Xác nhận")
+    submit1 = st.form_submit_button("Xác nhận và tìm kiếm")
     dest_name = ['Đà Lạt', 'Hà Nội', 'TP. Hồ Chí Minh', 'Vũng Tàu', 'Đà Nẵng', 'Phú Quốc', 'Hội An', 'Nha Trang', 'Sa Pa', 'Huế']
     dest_id = [-3712045, -3714993, -3730078, -3733750, -3712125, -3726177, -3715584, -3723998, -3728113, -3715887]
     for i in range(len(dest_name)):
@@ -82,8 +82,8 @@ with st.form("Thông tin"):
 ###########################################
 name = word_tokenize(name,format = 'text')
 #Nút tìm kiếm
-deploy = st.button('Tìm kiếm')
-if deploy:
+
+if submit1:
     with st.spinner("đang chạy..."):
         time.sleep(1)
     try:
