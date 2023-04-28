@@ -4,6 +4,8 @@
 
 The system using your descriptions to recommends to you which hotels are likely your descriptions
 
+Language: Vietnamese
+
 METHOD: Using content-based Algorithm (using cosine similarty measure to measures the similarty between hotels)
 
 -------------------------------------------------------------------------------------------------
