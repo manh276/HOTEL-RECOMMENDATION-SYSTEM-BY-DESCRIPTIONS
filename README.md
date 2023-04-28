@@ -12,6 +12,7 @@ FILE:
   
 -------------------------------------------------------------------------------------------------
 How to run:
+
 I/install requirement module:
   1.streamlit (to deploy web app)
   2.pandas (work with dataframe)
@@ -19,6 +20,7 @@ I/install requirement module:
   4.sklearn (build model)
   5.folium (display hotel on map in web app)
   6.underthesea (process data)
+  
 II/ Open APP2.py
   1.change the path in pickle.load command to the right path in your computer
   2.run the command: streamlit run "the path to APP.2 in your computer"
